@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ausaf%20raza/mlops-assignment-1/notebooks/mlruns/272749976488447046/b4799614a5474e21ac1f6edcad8e4ab8/artifacts
+end_time: 1758212191504
+entry_point_name: ''
+experiment_id: '272749976488447046'
+lifecycle_stage: active
+run_id: b4799614a5474e21ac1f6edcad8e4ab8
+run_name: Best_Model_Registration
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758212182374
+status: 3
+tags: []
+user_id: Ausaf raza

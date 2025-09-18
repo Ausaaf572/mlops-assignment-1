@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Ausaf%20raza/mlops-assignment-1/notebooks/mlruns/272749976488447046/models/m-3aac504277e4471cb27e4eb4554e3c5f/artifacts
+creation_timestamp: 1758212165943
+experiment_id: '272749976488447046'
+last_updated_timestamp: 1758212173741
+model_id: m-3aac504277e4471cb27e4eb4554e3c5f
+model_type: null
+name: model
+source_run_id: 359e770ba176442bac1821cb94b3c0c7
+status: 2
+status_message: null

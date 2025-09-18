@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1758212812384
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1758212812384
+metrics: null
+model_id: m-80ac958bd5ff42bbbdbf5490356779ab
+name: iris_best_model
+params: null
+run_id: e85c6f0a609f4854807b1e9fce75068e
+run_link: null
+source: models:/m-80ac958bd5ff42bbbdbf5490356779ab
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Ausaf raza/mlops-assignment-1/mlruns/868616821754101766/models/m-80ac958bd5ff42bbbdbf5490356779ab/artifacts
+user_id: null
+version: 1

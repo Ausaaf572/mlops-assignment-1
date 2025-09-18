@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ausaf%20raza/mlops-assignment-1/notebooks/mlruns/272749976488447046/4046c9ba6cf245869dd7c1d9bbebc7f1/artifacts
+end_time: 1758210554959
+entry_point_name: ''
+experiment_id: '272749976488447046'
+lifecycle_stage: active
+run_id: 4046c9ba6cf245869dd7c1d9bbebc7f1
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758210533079
+status: 3
+tags: []
+user_id: Ausaf raza

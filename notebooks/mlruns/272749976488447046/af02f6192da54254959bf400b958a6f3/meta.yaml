@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ausaf%20raza/mlops-assignment-1/notebooks/mlruns/272749976488447046/af02f6192da54254959bf400b958a6f3/artifacts
+end_time: 1758212182323
+entry_point_name: ''
+experiment_id: '272749976488447046'
+lifecycle_stage: active
+run_id: af02f6192da54254959bf400b958a6f3
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758212174138
+status: 3
+tags: []
+user_id: Ausaf raza

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Ausaf raza/mlops-assignment-1/mlruns/868616821754101766
+creation_time: 1758212798089
+experiment_id: '868616821754101766'
+last_update_time: 1758212798089
+lifecycle_stage: active
+name: iris_model_comparison

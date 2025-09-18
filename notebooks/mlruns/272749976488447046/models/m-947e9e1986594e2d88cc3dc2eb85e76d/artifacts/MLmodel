@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Ausaf%20raza/mlops-assignment-1/notebooks/mlruns/272749976488447046/models/m-947e9e1986594e2d88cc3dc2eb85e76d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-947e9e1986594e2d88cc3dc2eb85e76d
+model_size_bytes: 177196
+model_uuid: m-947e9e1986594e2d88cc3dc2eb85e76d
+prompts: null
+run_id: 2e07f7f46be94ac8a717b5bbc49037c3
+utc_time_created: '2025-09-18 15:49:15.850383'

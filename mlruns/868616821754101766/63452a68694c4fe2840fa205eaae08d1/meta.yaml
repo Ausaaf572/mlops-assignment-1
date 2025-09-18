@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ausaf raza/mlops-assignment-1/mlruns/868616821754101766/63452a68694c4fe2840fa205eaae08d1/artifacts
+end_time: 1758212805488
+entry_point_name: ''
+experiment_id: '868616821754101766'
+lifecycle_stage: active
+run_id: 63452a68694c4fe2840fa205eaae08d1
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758212801638
+status: 3
+tags: []
+user_id: Ausaf raza
